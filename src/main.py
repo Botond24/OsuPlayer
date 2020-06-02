@@ -69,7 +69,7 @@ if __name__ == "__main__":
 
 		print("Input First Sleep Time")
 		sl = float(input())
-		
+
 
 		pp.maxtime = maxtime
 		cp.maxtime = maxtime
@@ -96,7 +96,7 @@ if __name__ == "__main__":
 		maxtime = int(lines[1])
 		dim_threshold = float(lines[2])
 		sl = float(lines[3])
-		
+
 
 		pp.maxtime = maxtime
 		cp.maxtime = maxtime
